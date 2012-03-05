@@ -1,0 +1,7 @@
+Unit tests for homework on Udacity course CS 101: Building a search engine
+
+Usage:
+1. Edit homework$version/task.py file. Put your code between comments
+2. Run python homework$version/test.py
+3. Fix your code and run tests again
+
