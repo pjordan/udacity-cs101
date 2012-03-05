@@ -1,0 +1,3 @@
+>>> import task
+>>> task.countdown(0)
+Blastoff!
